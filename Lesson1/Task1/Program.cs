@@ -1,8 +1,8 @@
 ﻿int a = 6;
 int b = 7;
-int c = 9;
+int c = 10;
 int d = 4;
-int e = 10;
+int e = 9;
 String g="";
 int max = a;
 if (b > max)
