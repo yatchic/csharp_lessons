@@ -13,3 +13,8 @@ long l1=6;
 long sum2 = i1+l1;
 Console.WriteLine(sum1);
 Console.WriteLine(sum2);
+int quotient = i1/i2;
+Console.WriteLine(quotient);
+int d1=6;
+double quotient2=(double)i1/d1;
+Console.WriteLine(quotient2);
