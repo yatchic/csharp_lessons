@@ -1,6 +1,6 @@
-﻿int a = 6;
-int b = 7;
-int c = 10;
+﻿int a = 7;
+int b = 10;
+int c = 6;
 int d = 4;
 int e = 9;
 String g="";
