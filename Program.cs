@@ -1,4 +1,5 @@
 ﻿//Console.WriteLine("Hello World");
+//комментарий
 int value=100;
 Console.WriteLine(value);
 double d=5.55;
