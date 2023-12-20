@@ -1,20 +1,4 @@
-﻿int value=100;
-Console.WriteLine(value);
-double d=5.55;
-char c='!';
-bool b=true;
-Console.WriteLine(d);
-Console.WriteLine(c);
-Console.WriteLine(b);
-int i1=5;
-int i2=6;
-int sum1=i1+i2;
-long l1=6;
-long sum2 = i1+l1;
-Console.WriteLine(sum1);
-Console.WriteLine(sum2);
-int quotient = i1/i2;
-Console.WriteLine(quotient);
-int d1=6;
-double quotient2=(double)i1/d1;
-Console.WriteLine(quotient2);
+﻿int a=5;
+int b=7;
+if(a>b){Console.WriteLine($"гиря a тяжелее={a}");}else{Console.WriteLine($"гиря b тяжелее={b}");}
+ 
